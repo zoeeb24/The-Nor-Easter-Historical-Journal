@@ -1,0 +1,12 @@
+body {font-family: 'Playfair Display';}
+
+.bodybox {background-image: url('images/marble-background.jpg');
+text-align: center;}
+
+.secondbodybox {display: flex;}
+
+.hi-header {text-align: center;}
+
+.home-involvement {display: flex;}
+
+.sub-header {font-family: 'Playfair Display';}
