@@ -1,0 +1,71 @@
+body {font-family: 'Playfair Display';}
+
+
+.sub-header {display: flex;}
+.sub-header ul {list-style: none;
+display: flex;
+margin-left: -35px;
+height: 60px;
+}
+.sub-header li {padding: .5rem;}
+.sub-header a {text-decoration: none;
+color: black;}
+  .sub-header a:hover {color: rgb(23, 177, 177);}
+
+.sub-headertitle {margin-left: 150px;
+margin-top: 25px;
+font-size: 1.5rem;} 
+
+
+.sub-body {text-align: center;
+background-color: rgb(57, 57, 75);
+height: 400px;}
+
+
+.sub-body-text1 {padding-top: 1%;}
+.sub-body-text1 a {color: rgb(23, 177, 177); 
+text-decoration: none;}
+  .sub-body-text1 a:hover {color: rgb(95, 95, 95);}
+.sub-body-text1 h1 {color: whitesmoke;
+font-weight: bold;
+font-size: 2rem;}
+.sub-body-text1 p {color: whitesmoke;}
+
+.sub-body-text2 h1 {color: whitesmoke;
+font-weight: bold;}
+.sub-body-text2 p {color: whitesmoke;
+font-style: italic;}
+
+
+
+.sub-deadline {background-image: url('images/marble-background.jpg');}
+.sub-deadline div {font-weight: bold;
+padding: 1.5rem;
+font-size: 3rem;
+font-style: italic;
+color: whitesmoke;}
+
+
+
+.si-header {margin-top: 5%;
+text-align: center;}
+
+.sub-involvement {margin-top:5%; 
+display: flex;
+text-align: center;
+align-content: center;
+width: 90%;
+margin-left: 6.5%;
+}
+
+.sub-resume {text-align: center;
+padding: 1rem;
+font-size: 1.2rem;}
+
+.sub-comm {text-align: center;
+padding: 1rem;
+font-size: 1.2rem;}
+
+.sub-college {text-align: center;
+padding: 1rem;
+font-size: 1.2rem;}

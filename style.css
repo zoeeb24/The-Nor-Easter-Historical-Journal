@@ -1,12 +1,130 @@
 body {font-family: 'Playfair Display';}
 
+.header {display: flex;}
+.header ul {list-style: none;
+display: flex;
+margin-left: -35px;
+height: 60px;
+}
+.header li {padding: .5rem;}
+.header a {text-decoration: none;
+color: black;}
+  .header a:hover {color: rgb(23, 177, 177);}
+
+.headertitle {margin-left: 150px;
+margin-top: 25px;
+font-size: 1.5rem;} 
+
+
+
+
 .bodybox {background-image: url('images/marble-background.jpg');
+position: absolute;
+text-align: center;
+height: 700px;
+margin: 0;
+width: 100%;
+}
+
+.bodytext {margin-top: 280px;
+text-align: center;
+}
+.bodytext h1 {color: white; font-weight: bold;}
+.bodytext p {color: white;}
+
+.bodybutton {font-style: italic;
+padding: 2rem;
+border: solid white 2px;
+width: 10%;
+align-self: center;
+margin-left: 620px;
+}
+.bodybutton a {text-decoration: none; 
+color: white;}
+.bodybutton a:hover {color: rgb(23, 177, 177);}
+
+
+
+
+
+.secondbodybox {display: flex;
+height: 300px;
+width: 60%;
+margin-top: 730px;
+margin-left: 25%;
+}
+
+.secondbodybox img {padding: 1.5rem;}
+
+.secondbodybox-text {padding: 1rem;}
+
+.bodybutton2 {font-style: italic;
+padding: 2rem;
+border: solid black 2px;
+width: 20%;
+align-self: center;
+margin-top:5%;}
+.bodybutton2 a {text-decoration: none; 
+color: black;}
+.bodybutton2 a:hover {color: rgb(23, 177, 177);}
+
+
+
+
+.hi-header {margin-top: 15%;
 text-align: center;}
 
-.secondbodybox {display: flex;}
+.home-involvement {margin-top:5%; 
+display: flex;
+text-align: center;
+align-content: center;
+width: 90%;
+margin-left: 6.5%;
+}
 
-.hi-header {text-align: center;}
+.home-resume {text-align: center;
+padding: 1rem;}
 
-.home-involvement {display: flex;}
+.home-comm {text-align: center;
+padding: 1rem;}
 
-.sub-header {font-family: 'Playfair Display';}
+.home-college {text-align: center;
+padding: 1rem;}
+
+.involvement-button {text-align: center;
+font-style: italic;
+border: 2px solid black;
+height: 30px;
+width: 15%; 
+align-self: center;
+margin-left: 42.5%;
+margin-top: 5%;
+padding: 1.5rem;}
+.involvement-button a {text-decoration: none;
+color: black;
+padding: 1rem;
+}
+.involvement-button a:hover {color: rgb(23, 177, 177);}
+
+
+
+.home-contact {text-align: center;
+background-color: rgb(57, 57, 75);
+margin-top: 5%;
+height: 340px;
+}
+
+.contact-header {color: whitesmoke;
+padding: 1.5rem;
+font-weight: bold;
+font-size: 2rem;}
+
+.contact-email {color: rgb(23, 177, 177);
+padding: 1.5rem;
+font-weight: bold;}
+
+.home-contact p {font-style: italic;
+color: whitesmoke;
+}
+
+
