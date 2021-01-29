@@ -1,0 +1,17 @@
+body {font-family: 'Playfair Display';}
+
+
+.contact-header {display: flex;}
+.contact-header ul {list-style: none;
+display: flex;
+margin-left: -35px;
+height: 60px;
+}
+.contact-header li {padding: .5rem;}
+.contact-header a {text-decoration: none;
+color: black;}
+  .contact-header a:hover {color: rgb(23, 177, 177);}
+
+.contact-headertitle {margin-left: 150px;
+margin-top: 25px;
+font-size: 1.5rem;} 

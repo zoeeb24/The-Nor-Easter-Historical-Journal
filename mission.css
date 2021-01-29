@@ -1,0 +1,72 @@
+body {font-family: 'Playfair Display';}
+
+.mission-header {display: flex;}
+.mission-header ul {list-style: none;
+display: flex;
+margin-left: -35px;
+height: 60px;
+}
+.mission-header li {padding: .5rem;}
+.mission-header a {text-decoration: none;
+color: black;}
+  .mission-header a:hover {color: rgb(23, 177, 177);}
+
+.mission-headertitle {margin-left: 150px;
+margin-top: 25px;
+font-size: 1.5rem;} 
+
+
+
+.mission-hero {text-align: center;
+background-color:  rgb(57, 57, 75);
+color: whitesmoke;
+height: 500px;
+position: absolute;}
+
+.mission-hero-text {margin-top: 3%;}
+.mission-hero-text h1 {font-size: 2rem;
+font-weight: bold;
+}
+.mission-hero-text p {padding: 1rem;}
+
+
+
+.team-header {margin-top: 40%;
+text-align: center;}
+
+.mission-team-members {display: flex;
+padding-bottom: 3rem;
+}
+.mission-team-members div {padding: 1rem;}
+.mission-team-members h1 {font-size: 1.2rem;}
+
+
+.lucy-box {text-align: center;}
+.lucy-box img {padding-bottom: .5rem;
+padding-top: 1.5rem;}
+.lucy-box a {text-decoration: none;
+font-style: italic;
+color: rgb(23, 177, 177);}
+.lucy-box a:hover {color: rgb(95, 95, 95);}
+
+
+.zoe-box {text-align: center;}
+.zoe-box img {padding-bottom: .5rem;
+padding-top: 1.5rem;}
+.zoe-box a {text-decoration: none;
+font-style: italic;
+color: rgb(23, 177, 177);}
+.zoe-box a:hover {color: rgb(95, 95, 95);}
+
+
+.hannah-box {text-align: center;}
+.hannah-box img {padding-bottom: .5rem;
+padding-top: 1.5rem;}
+.hannah-box a {text-decoration: none;
+font-style: italic;
+color: rgb(23, 177, 177);}
+.hannah-box a:hover {color: rgb(95, 95, 95);}
+
+
+
+
