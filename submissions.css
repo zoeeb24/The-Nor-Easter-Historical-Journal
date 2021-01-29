@@ -19,7 +19,7 @@ font-size: 1.5rem;}
 
 .sub-body {text-align: center;
 background-color: rgb(57, 57, 75);
-height: 400px;}
+height: 450px;}
 
 
 .sub-body-text1 {padding-top: 1%;}
@@ -29,7 +29,9 @@ text-decoration: none;}
 .sub-body-text1 h1 {color: whitesmoke;
 font-weight: bold;
 font-size: 2rem;}
-.sub-body-text1 p {color: whitesmoke;}
+.sub-body-text1 p {color: whitesmoke;
+font-size: 1rem;
+}
 
 .sub-body-text2 h1 {color: whitesmoke;
 font-weight: bold;}
@@ -56,6 +58,7 @@ text-align: center;
 align-content: center;
 width: 90%;
 margin-left: 6.5%;
+height: 325px;
 }
 
 .sub-resume {text-align: center;
