@@ -127,5 +127,50 @@ font-weight: bold;}
 .home-contact p {font-style: italic;
 color: whitesmoke;
 }
+.home-contact a {text-decoration: none;
+color: whitesmoke;}
+.home-contact a:hover {color:rgb(23, 177, 177); }
 
 
+
+
+
+@media screen and (max-width: 750px){
+
+.header ul {display: none;}
+.header {width: 750px;
+padding: 1rem;
+margin-bottom: 15px;}
+
+
+  
+.bodybox {width: 750px;}
+.bodybutton {margin-left: 310px;}
+
+
+
+.secondbodybox {width: 750px;
+margin-left: -10px;
+}
+.bodybutton2 {width: 100px;}
+
+
+
+.hi-header {padding-top: 2.5rem;
+margin-left: 5px;
+width: 750px;}
+
+.home-involvement {width: 750px;
+padding-top: 2rem;
+margin-left: -5px;
+}
+
+.involvement-button {width: 200px;
+margin-left: 250px;}
+
+
+
+.home-contact {width: 750px;
+}
+
+}

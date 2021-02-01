@@ -41,3 +41,27 @@ color: lightskyblue;
 height: 300px;}
 .contact-team-emails div {padding: 1rem;}
 
+
+
+
+
+@media screen and (max-width: 750px){
+
+.contact-header ul {display: none;}
+.contact-header {width: 750px;
+padding: 1rem;
+margin-bottom: 15px;}
+
+.contact-headertitle {width: 750px;} 
+
+.contact-body {width: 750px;
+}
+.contact-body p {width: 750px;}
+
+.contact-body img {display: none;}
+
+.contact-team-emails {width: 750px;
+margin-top: 350px;}
+
+
+}

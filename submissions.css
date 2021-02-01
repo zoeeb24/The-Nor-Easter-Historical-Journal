@@ -72,3 +72,30 @@ font-size: 1.2rem;}
 .sub-college {text-align: center;
 padding: 1rem;
 font-size: 1.2rem;}
+
+
+
+
+
+@media screen and (max-width: 750px){
+
+.sub-header ul {display: none;}
+.sub-header {width: 750px;
+padding: 1rem;
+margin-bottom: 15px;
+}
+.sub-headertitle {width: 750px;}
+
+.sub-body {width: 750px;
+height: 500px;}
+
+.sub-deadline {width: 750px;}
+
+
+
+.si-header {width: 750px;
+padding-top: 2rem;}
+.sub-involvement {width: 750px;}
+
+
+}

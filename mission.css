@@ -70,3 +70,25 @@ color: rgb(23, 177, 177);}
 
 
 
+@media screen and (max-width: 750px){
+
+.mission-header ul {display: none;}
+.mission-header {width: 750px;
+padding: 1rem;
+margin-bottom: 15px;}
+
+.mission-headertitle {width: 750px;} 
+
+.mission-hero {width: 750px;
+height: 700px;}
+.mission-hero-text {width: 750px;}
+
+.mission-team-members {display: inline-block;
+margin-top: 600px;
+}
+
+.lucy-box {width: 750px;}
+.zoe-box {width: 750px;}
+.hannah-box {width: 750px;}
+
+}
