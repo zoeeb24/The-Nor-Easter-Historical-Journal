@@ -4,7 +4,7 @@ body {font-family: 'Playfair Display';}
 margin-left: 20px;}
 .header ul {list-style: none;
 display: flex;
-margin-left: -35px;
+margin-left: -40px;
 height: 60px;
 }
 .header li {padding: .5rem;}
@@ -132,12 +132,12 @@ padding: 1rem;
 
 
 .home-contact {text-align: center;
-background-color: rgb(57, 57, 75);
+background-color: rgb(223, 243, 243);
 margin-top: 5%;
 height: 340px;
 }
 
-.contact-header {color: whitesmoke;
+.contact-header {color: rgb(9, 19, 63);
 padding: 1.5rem;
 font-weight: bold;
 font-size: 2rem;}
@@ -147,10 +147,10 @@ padding: 1.5rem;
 font-weight: bold;}
 
 .home-contact p {font-style: italic;
-color: whitesmoke;
+color: rgb(9, 19, 63);
 }
 .home-contact a {text-decoration: none;
-color: whitesmoke;}
+color: rgb(9, 19, 63);}
 .home-contact a:hover {color:rgb(23, 177, 177); }
 
 
@@ -162,12 +162,32 @@ color: whitesmoke;}
 .header ul {display: none;}
 .header {width: 750px;
 padding: 1rem;
-margin-bottom: 15px;}
+margin-bottom: 15px;
+margin-left: -15px;}
 
 
   
 .bodybox {width: 750px;}
 .bodybutton {margin-left: 310px;}
+
+
+
+.issuebox {width: 750px;
+height: 475px;
+}
+.issueinfotext {width: 325px;
+text-align: center;
+margin-left: 220px;}
+
+.iibutton {margin-left: 90px;
+width: 75px;
+padding-top: 2rem;
+margin-top: 25px;}
+
+
+
+
+
 
 
 

@@ -3,7 +3,7 @@ body {font-family: 'Playfair Display';}
 .mission-header {display: flex;}
 .mission-header ul {list-style: none;
 display: flex;
-margin-left: -35px;
+margin-left: -20px;
 height: 60px;
 }
 .mission-header li {padding: .5rem;}
@@ -18,12 +18,14 @@ font-size: 1.5rem;}
 
 
 .mission-hero {text-align: center;
-background-color:  rgb(57, 57, 75);
-color: whitesmoke;
+background-color:  rgb(223, 243, 243);
+color: rgb(9, 19, 63);
 height: 500px;
 position: absolute;}
 
-.mission-hero-text {margin-top: 3%;}
+.mission-hero-text {margin-top: 3%;
+width: 90%;
+margin-left: 5%;}
 .mission-hero-text h1 {font-size: 2rem;
 font-weight: bold;
 }

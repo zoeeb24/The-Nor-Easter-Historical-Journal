@@ -4,7 +4,7 @@ body {font-family: 'Playfair Display';}
 .sub-header {display: flex;}
 .sub-header ul {list-style: none;
 display: flex;
-margin-left: -35px;
+margin-left: -20px;
 height: 60px;
 }
 .sub-header li {padding: .5rem;}
@@ -14,28 +14,33 @@ color: black;}
 
 .sub-headertitle {margin-left: 150px;
 margin-top: 25px;
-font-size: 1.5rem;} 
+font-size: 1.5rem;
+} 
 
 
 .sub-body {text-align: center;
-background-color: rgb(57, 57, 75);
-height: 450px;}
+background-color: rgb(223, 243, 243);
+height: 520px;
+}
 
 
-.sub-body-text1 {padding-top: 1%;}
+.sub-body-text1 {padding-top: 1%;
+width: 80%;
+text-align: center;
+margin-left: 10%;}
 .sub-body-text1 a {color: rgb(23, 177, 177); 
 text-decoration: none;}
   .sub-body-text1 a:hover {color: rgb(95, 95, 95);}
-.sub-body-text1 h1 {color: whitesmoke;
+.sub-body-text1 h1 {color: rgb(9, 19, 63);
 font-weight: bold;
 font-size: 2rem;}
-.sub-body-text1 p {color: whitesmoke;
+.sub-body-text1 p {color: rgb(9, 19, 63);
 font-size: 1rem;
 }
 
-.sub-body-text2 h1 {color: whitesmoke;
+.sub-body-text2 h1 {color: rgb(9, 19, 63);
 font-weight: bold;}
-.sub-body-text2 p {color: whitesmoke;
+.sub-body-text2 p {color: rgb(9, 19, 63);
 font-style: italic;}
 
 
@@ -50,14 +55,15 @@ color: whitesmoke;}
 
 
 .si-header {margin-top: 5%;
-text-align: center;}
+text-align: center;
+margin-left: -3%;}
 
 .sub-involvement {margin-top:5%; 
 display: flex;
 text-align: center;
 align-content: center;
 width: 90%;
-margin-left: 6.5%;
+margin-left: 5%;
 height: 325px;
 }
 
